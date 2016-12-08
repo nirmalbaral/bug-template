@@ -61,4 +61,4 @@ What the application should have done, were the bug not present.
 
 Sources:
 
-[Bug writing guidelines] : https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
+[Bug writing guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
