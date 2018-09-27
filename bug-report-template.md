@@ -41,6 +41,11 @@ On which operating system (OS) did you find it? (e.g. Linux, Windows XP, Mac OS 
 This is a larger detailed restatement of the summary.
 
        An example would be: "Login failed with Invalid credential message when login with valid username & password".
+       test data used:
+       1) username: John
+       2) password: Doe
+       3) email: john.doe@test.com
+       4) client: Acme
 
 
 ### Steps to Reproduce:
