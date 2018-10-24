@@ -4,8 +4,8 @@ An effective defect report template to raise a bug.
 ### Summary:
 How would you describe the bug in less than 60 characters? It should quickly and uniquely identify a bug report as well as explain the problem, not your suggested solution.
 
-       Good: "Login failed with Invalid credential message"
-        Bad: "Invalid credential"
+      Good: "Login failed with Invalid credential message"
+      Bad: "Invalid credential"
 
 ### Component/Feature:
 In which sub-part of the software does it exist?
